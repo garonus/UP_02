@@ -1,0 +1,15 @@
+/home/user/Рабочий стол/UP_02_PR6/bin/Debug/net6.0/UP_02_PR6
+/home/user/Рабочий стол/UP_02_PR6/bin/Debug/net6.0/UP_02_PR6.deps.json
+/home/user/Рабочий стол/UP_02_PR6/bin/Debug/net6.0/UP_02_PR6.runtimeconfig.json
+/home/user/Рабочий стол/UP_02_PR6/bin/Debug/net6.0/UP_02_PR6.dll
+/home/user/Рабочий стол/UP_02_PR6/bin/Debug/net6.0/UP_02_PR6.pdb
+/home/user/Рабочий стол/UP_02_PR6/obj/Debug/net6.0/UP_02_PR6.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/UP_02_PR6/obj/Debug/net6.0/UP_02_PR6.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/UP_02_PR6/obj/Debug/net6.0/UP_02_PR6.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/UP_02_PR6/obj/Debug/net6.0/UP_02_PR6.AssemblyInfo.cs
+/home/user/Рабочий стол/UP_02_PR6/obj/Debug/net6.0/UP_02_PR6.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/UP_02_PR6/obj/Debug/net6.0/UP_02_PR6.dll
+/home/user/Рабочий стол/UP_02_PR6/obj/Debug/net6.0/refint/UP_02_PR6.dll
+/home/user/Рабочий стол/UP_02_PR6/obj/Debug/net6.0/UP_02_PR6.pdb
+/home/user/Рабочий стол/UP_02_PR6/obj/Debug/net6.0/UP_02_PR6.genruntimeconfig.cache
+/home/user/Рабочий стол/UP_02_PR6/obj/Debug/net6.0/ref/UP_02_PR6.dll
